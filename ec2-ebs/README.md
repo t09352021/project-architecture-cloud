@@ -50,11 +50,11 @@ gerenciar os seus documentos e arquivos na nuvem. Neste exercício, iremos ajud�
     Selecione a chave .pem, clique em save private key e yes;
 
   Use o executável PuTTY;
-    -No campo "Host name", adicione a chave IPv4 Public IP que está localizada no console da instância EC2;
-    -No campo "Saved Session", dê um nome e clique em save;
-    -Na lateral do menu, clique em SSH, escolha auth e credentials, em private key file for authentication adicione o arquivo .ppk
+    --No campo "Host name", adicione a chave IPv4 Public IP que está localizada no console da instância EC2;
+    --No campo "Saved Session", dê um nome e clique em save;
+    --Na lateral do menu, clique em SSH, escolha auth e credentials, em private key file for authentication adicione o arquivo .ppk
      e save;
-    -Clique em open para abrir o terminal da instância.     
+    --Clique em open para abrir o terminal da instância.     
   
   
 ---
